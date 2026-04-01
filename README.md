@@ -1,17 +1,5 @@
-# Selenium Grid – README
+# Selenium Grid Distributed-Test-Execution-Framework
 
-## 👨‍💻 Author
-
-**Arpit Choubey — SDET | QA | Automation Engineer**
-🔗 **LinkedIn** | **Medium**
-
----
-
-## ⭐ Support
-
-If this repository helps you, please **Star 🌟** it!
-
----
 
 ## 📌 What is Selenium Grid?
 
@@ -145,3 +133,15 @@ This repository includes multiple Grid execution examples:
 
 ---
 �
+
+
+## 👨‍💻 Author
+
+**Arpit Choubey — SDET | QA | Automation Engineer**
+🔗 **LinkedIn** | **Medium**
+
+---
+
+## ⭐ Support
+
+If this repository helps you, please **Star 🌟** it!
